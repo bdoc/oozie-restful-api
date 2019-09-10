@@ -7,7 +7,10 @@ import org.slf4j.LoggerFactory;
 
 import java.io.InputStream;
 import java.util.Arrays;
-
+/**
+ * Reference
+ * https://blog.csdn.net/high2011/article/details/74889321/
+ */
 public class TestSendHttpRequestToUrl {
     private static Logger logger = LoggerFactory.getLogger(TestSendHttpRequestToUrl.class);
 

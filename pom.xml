@@ -10,6 +10,7 @@
 
     <properties>
         <oozie.version>4.2.0</oozie.version>
+        <hadoop.version>2.7.3</hadoop.version>
 
         <junit.version>4.12</junit.version>
         <slf4j-version>1.7.20</slf4j-version>
@@ -22,6 +23,11 @@
             <groupId>org.apache.oozie</groupId>
             <artifactId>oozie-client</artifactId>
             <version>${oozie.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-client</artifactId>
+            <version>${hadoop.version}</version>
         </dependency>
 
         <dependency>

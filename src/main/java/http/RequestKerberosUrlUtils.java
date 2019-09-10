@@ -29,6 +29,10 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Reference
+ * https://blog.csdn.net/high2011/article/details/74889321/
+ */
 public class RequestKerberosUrlUtils {
     public static Logger logger = LoggerFactory.getLogger(RequestKerberosUrlUtils.class);
     private String principal;

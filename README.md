@@ -1,5 +1,7 @@
 # oozie-restful-api
-Oozie RESTFul API Kerberos
+Oozie API Kerberos
+
+RESTFul API, Java API
 
 Reference
 

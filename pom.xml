@@ -15,7 +15,7 @@
         <junit.version>4.12</junit.version>
         <slf4j-version>1.7.20</slf4j-version>
         <httpclient.version>4.3.3</httpclient.version>
-        <common.verion>2.5</common.verion>
+        <common.verion>2.7</common.verion>
     </properties>
 
     <dependencies>
